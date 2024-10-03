@@ -6,7 +6,7 @@
 <Navbar />
 
 <div class="flex justify-center h-auto">
-    <div class="max-w-[40vw] w-full px-4 py-8">
+    <div class="sm:max-w-[40vw] mx-auto max-w-full px-4 py-8">
         <div>
             <div class="mb-8 text-lg">
                 <p>
