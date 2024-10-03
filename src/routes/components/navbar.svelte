@@ -1,5 +1,4 @@
 <script lang="ts">
-
     import Logo from "./gammatau.svg";
 </script>
 
@@ -10,13 +9,13 @@
                 <img src={Logo} alt="Gamma Tau" class="w-12 h-12" />
                 <h1 class="text-2xl font-bold">Gamma Tau</h1>
             </div>
-            <!-- <ul class="flex items-center space-x-6">
-                <li><a href="/" class="hover:text-gray-600">Home</a></li>
-                <li>
-                    <Button class="rounded-full">Join</Button>
-                </li>
-            </ul> -->
-            <button class="rounded">Get Involved</button>
+            <button class="join-button">Get Involved</button>
         </div>
     </div>
 </nav>
+
+<style>
+    .join-button {
+        @apply rounded text-primary-foreground bg-primary px-4 py-2 hover:bg-primary/90;
+    }
+</style>

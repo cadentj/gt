@@ -1,16 +1,16 @@
 [
     {
-        "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
-        "authors": "Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao",
-        "venue": "NeurIPS",
-        "year": 2023,
-        "link": "https://arxiv.org/abs/2303.11366"
-    },
-    {
         "title": "Can It Edit? Evaluating the Ability of Large Language Models to Follow Code Editing Instructions",
         "authors": "Federico Cassano, Luisa Li, Akul Sethi, Noah Shinn, Abby Brennan-Jones, Edward Berman, George Chakhnashvili, Anton Lozhkov, Carolyn Anderson, Arjun Guha",
         "venue": "COLM",
         "year": 2024,
         "link": "https://arxiv.org/abs/2312.12450"
+    },
+    {
+        "title": "Reflexion: Language Agents with Verbal Reinforcement Learning",
+        "authors": "Noah Shinn, Federico Cassano, Edward Berman, Ashwin Gopinath, Karthik Narasimhan, Shunyu Yao",
+        "venue": "NeurIPS",
+        "year": 2023,
+        "link": "https://arxiv.org/abs/2303.11366"
     }
 ]
