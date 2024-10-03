@@ -20,7 +20,7 @@ const config = {
 			"@/*": "./src/lib/*",
 		},
 		paths: {
-			base: process.argv.includes('dev') ? '' : 'gt'
+			base: process.argv.includes('dev') ? '' : '/gt'
 		}
 	}
 };
