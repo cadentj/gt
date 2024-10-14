@@ -5,8 +5,6 @@
 
 <Navbar />
 
-TEST
-
 <div class="flex justify-center h-auto">
     <div class="sm:max-w-[40vw] mx-auto max-w-full px-4 py-8">
         <div>
